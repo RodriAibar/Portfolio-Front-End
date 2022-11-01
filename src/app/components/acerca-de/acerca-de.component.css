@@ -13,16 +13,13 @@ h1 {
 /*Estilo de la foto de perfil*/
 @media (min-width: 576px){
     #fotodeperfil{
-        position: absolute;
-        width: 15%;
         border-radius: 100%;
         box-shadow: 3px 3px 3px grey;
-        left: 3%;
-        top:250px;
     }
     #nombreYprof{
         margin-left: -100px;
     }
+
 }
 @media (min-width: 768px){
     #fotodeperfil{
